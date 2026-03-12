@@ -1,0 +1,12 @@
+Office,County,Phone,Fax,Address,Notes,geo_tag
+VAST Las Vegas,Clark,(702) 224-6025,(702) 224-6927,"6900 N. Pecos Rd., Room 1C238, North Las Vegas, NV 89086",Located at the VA Hospital in North Las Vegas,nv_32003
+VAST Reno,Washoe,(775) 321-4880,(775) 321-4884,"5460 Reno Corporate Dr. Suite 131, Reno, NV 89511",Located in the VA's Reno Regional Office,nv_32031
+VAST Carson City,Carson City,(775) 321-4880,(775) 321-4884,"106 E Adams St. Suite 203, Carson City, NV 89706",,nv_32510
+VAST Fallon,Churchill,(775) 321-4880,(775) 423-9371,"485 W. B Street, Suite 103, Fallon, NV 89406",Located in the Churchill County Offices Building,nv_32001
+VAST Elko,Elko,(775) 321-4880,(775) 777-1055,"1500 College Parkway, McMullen Hall Room 114, Elko, NV 89801",,nv_32007
+VAST Pahrump,Nye,(775) 751-6372,(775) 751-6371,"250 Hwy 160, Suite 6, Pahrump, NV 89060",,nv_32023
+Henderson Vet Center,Clark,,,"400 N. Stephanie St., Suite 180, Henderson, NV 89014",,nv_32003
+Winnemucca,Humboldt,(775) 321-4880,(775) 321-4884,"475 W. Haskell Ste 38, Winnemucca, NV 89445",,nv_32013
+Northern Nevada State Veterans Home,Washoe,(775) 321-4880,(775) 322-6763,"36 Battle Born Way, Sparks, NV 89431",,nv_32031
+Southern Nevada State Veterans Home,Clark,(702) 688-5806,(702) 688-5516,"100 Veterans Memorial Dr., Boulder City, NV 89005",,nv_32003
+Mesquite Vet Center,Clark,(702) 346-2735,,"840 E. Hafen Ln., Mesquite, NV 89027",Located inside Mesquite Vet Center,nv_32003
