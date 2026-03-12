@@ -1,0 +1,101 @@
+County,Region,State_Center,State_Center_Phone,County_VSO_Phone,Has_County_Office,geo_tag
+Alamance,REGION II,Clemmons,(919) 664-1000,(336) 570-6763/6734,Yes,nc_37001
+Alexander,REGION I,Hickory,(919) 664-1040,(828) 733-8211,Yes,nc_37003
+Alleghany,REGION II,Clemmons,(919) 664-1000,(336) 372-4850,Yes,nc_37005
+Anson,REGION II,Charlotte,(919) 664-1080,(704) 694-4418,Yes,nc_37007
+Ashe,REGION I,Hickory,(919) 664-1040,(336) 846-5575,Yes,nc_37009
+Avery,REGION I,Morganton,(919) 664-1055,(828) 733-8211,Yes,nc_37011
+Beaufort,REGION IV,Greenville,(919) 664-1150,(252) 946-8016,Yes,nc_37013
+Bertie,REGION IV,Elizabeth City,(919) 664-1150,(252) 794-5304,Yes,nc_37015
+Bladen,REGION III,Wilmington,(919) 664-1065,(910) 862-6781,Yes,nc_37017
+Brunswick,REGION III,Wilmington,(919) 664-1065,(910) 253-2233,Yes,nc_37019
+Buncombe,REGION I,Canton,(919) 664-1095,(828) 250-5726,Yes,nc_37021
+Burke,REGION I,Morganton,(919) 664-1055,(828) 439-4376,Yes,nc_37023
+Cabarrus,REGION II,Charlotte,(919) 664-1080,(704) 920-2869,Yes,nc_37025
+Caldwell,REGION I,Morganton,(919) 664-1055,(828) 757-1345,Yes,nc_37027
+Camden,REGION IV,Elizabeth City,(919) 664-1150,,No,nc_37029
+Carteret,REGION IV,Kinston,(919) 664-1030,,Yes,nc_37031
+Caswell,REGION III,Garner,(919) 664-1160,,No,nc_37033
+Catawba,REGION I,Hickory,(919) 664-1040,(828) 465-8255,Yes,nc_37035
+Chatham,REGION III,Garner,(919) 664-1160,,No,nc_37037
+Cherokee,REGION I,Canton,(919) 664-1095,(828) 835-8663,Yes,nc_37039
+Chowan,REGION IV,Elizabeth City,(919) 664-1150,(252) 482-1033,Yes,nc_37041
+Clay,REGION I,Canton,(919) 664-1095,(828) 389-3355,Yes,nc_37043
+Cleveland,REGION I,Morganton,(919) 664-1055,(704) 484-4803,Yes,nc_37045
+Columbus,REGION III,Wilmington,(919) 664-1065,(910) 640-6638,Yes,nc_37047
+Craven,REGION IV,Kinston,(919) 664-1030,(252) 636-6611,Yes,nc_37049
+Cumberland,REGION III,Fayetteville,(919) 664-1130,(910) 677-2970,Yes,nc_37051
+Currituck,REGION IV,Elizabeth City,(919) 664-1150,,No,nc_37053
+Dare,REGION IV,Elizabeth City,(919) 664-1150,(252) 475-5604,Yes,nc_37055
+Davidson,REGION II,Clemmons,(919) 664-1000,(336) 242-2037,Yes,nc_37057
+Davie,REGION II,Clemmons,(919) 664-1000,(336) 753-6225,Yes,nc_37059
+Duplin,REGION IV,Kinston,(919) 664-1030,(252) 636-6611,Yes,nc_37061
+Durham,REGION III,,(919) 286-0411,(919) 560-8387,Yes,nc_37063
+Edgecombe,REGION IV,Wilson,(919) 664-1185,(252) 641-6286,Yes,nc_37065
+Forsyth,REGION II,Clemmons,(919) 664-1000,,Yes,nc_37067
+Franklin,REGION III,Garner,(919) 664-1160,(919) 496-1939,Yes,nc_37069
+Gaston,REGION II,Charlotte,(919) 664-1080,(704) 866-3606,Yes,nc_37071
+Gates,REGION IV,Elizabeth City,(919) 664-1150,(252) 357-1780,Yes,nc_37073
+Graham,REGION I,Canton,(919) 664-1095,,No,nc_37075
+Granville,REGION III,Garner,(919) 664-1160,(919) 693-1484,Yes,nc_37077
+Greene,REGION IV,Kinston,(919) 664-1030,(252) 747-7320,Yes,nc_37079
+Guilford,REGION II,Clemmons,(919) 664-1000,(336) 641-2957,Yes,nc_37081
+Halifax,REGION IV,Wilson,(919) 664-1185,(252) 583-1688x1,Yes,nc_37083
+Harnett,REGION III,Fayetteville,(919) 664-1130,(910) 893-7574,Yes,nc_37085
+Haywood,REGION I,Canton,(919) 664-1095,(828) 452-6634,Yes,nc_37087
+Henderson,REGION I,Canton,(919) 664-1095,(828) 694-6500,Yes,nc_37089
+Hertford,REGION IV,Elizabeth City,(919) 664-1150,(252) 358-7811,Yes,nc_37091
+Hoke,REGION III,Fayetteville,(919) 664-1130,(910) 875-2147,Yes,nc_37093
+Hyde,REGION IV,Greenville,(919) 664-1150,(252) 926-4383,Yes,nc_37095
+Iredell,REGION I,Hickory,(919) 664-1040,(704) 878-3135,Yes,nc_37097
+Jackson,REGION I,Canton,(919) 664-1095,(828) 631-2231,Yes,nc_37099
+Johnston,REGION III,Garner,(919) 664-1160,(919) 989-5067,Yes,nc_37101
+Jones,REGION IV,Kinston,(919) 664-1030,(252) 448-1121,Yes,nc_37103
+Lee,REGION III,Fayetteville,(919) 664-1130,(919) 776-0501x2209,Yes,nc_37105
+Lenoir,REGION IV,Kinston,(919) 664-1030,(252) 902-3090,Yes,nc_37107
+Lincoln,REGION I,Hickory,(919) 664-1040,(704) 736-8506,Yes,nc_37109
+McDowell,REGION I,Morganton,(919) 664-1055,(828) 659-0833,Yes,nc_37111
+Macon,REGION I,Canton,(919) 664-1095,(828) 349-2151,Yes,nc_37113
+Madison,REGION I,Canton,(919) 664-1095,(828) 649-2722,Yes,nc_37115
+Martin,REGION IV,Greenville,(919) 664-1150,(252) 789-4398,Yes,nc_37117
+Mecklenburg,REGION II,Charlotte,(919) 664-1080,(704) 336-2102,Yes,nc_37119
+Mitchell,REGION I,Morganton,(919) 664-1055,(828) 688-2200,Yes,nc_37121
+Montgomery,REGION II,Clemmons,(919) 664-1000,(910)576-4711,Yes,nc_37123
+Moore,REGION III,Fayetteville,(919) 664-1130,(910) 947-3257,Yes,nc_37125
+Nash,REGION IV,Wilson,(919) 664-1185,(252) 462-2720,Yes,nc_37127
+New Hanover,REGION III,Wilmington,(919) 664-1065,(910) 798-7611/7612,Yes,nc_37129
+Northampton,REGION IV,Wilson,(919) 664-1185,(252) 534-2621,Yes,nc_37131
+Onslow,REGION III,Wilmington,(919) 664-1065,(910) 347-3309,Yes,nc_37133
+Orange,REGION III,Garner,(919) 664-1160,(919) 245-2890,Yes,nc_37135
+Pamlico,REGION IV,Greenville,(919) 664-1150,(252) 745-4086,Yes,nc_37137
+Pasquotank,REGION IV,Elizabeth City,(919) 664-1150,,No,nc_37139
+Pender,REGION III,Wilmington,(919) 664-1065,(910) 270-5005,Yes,nc_37141
+Perquimans,REGION IV,Elizabeth City,(919) 664-1150,(252) 426-1796,Yes,nc_37143
+Person,REGION III,Garner,(919) 664-1160,,No,nc_37145
+Pitt,REGION IV,Greenville,(919) 664-1015,(252) 902-3090,Yes,nc_37147
+Polk,REGION I,Morganton,(919) 664-1055,(828) 894-0003,Yes,nc_37149
+Randolph,REGION II,Clemmons,(919) 664-1000,(336) 318-6909,Yes,nc_37151
+Richmond,REGION II,Charlotte,(919) 664-1080,(910) 997-8232,Yes,nc_37153
+Robeson,REGION III,Fayetteville,(919) 664-1130,(910) 671-3070/3071,Yes,nc_37155
+Rockingham,REGION II,Clemmons,(919) 664-1000,(336) 342-8449,Yes,nc_37157
+Rowan,REGION II,Clemmons,(919) 664-1000,(704) 216-8138,Yes,nc_37159
+Rutherford,REGION I,Morganton,(919) 664-1055,(828) 287-6185/6064,Yes,nc_37161
+Sampson,REGION III,Fayetteville,(919) 664-1130,(910) 592-2862,Yes,nc_37163
+Scotland,REGION III,Fayetteville,(919) 664-1130,(910) 277-2597,Yes,nc_37165
+Stanly,REGION II,Charlotte,(919) 664-1080,(704) 986-3694,Yes,nc_37167
+Stokes,REGION II,Clemmons,(919) 664-1000,(336) 593-8820,Yes,nc_37169
+Surry,REGION II,Clemmons,(919) 664-1000,(336) 783-8820,Yes,nc_37171
+Swain,REGION I,Canton,(919) 664-1095,,No,nc_37173
+Transylvania,REGION I,Canton,(919) 664-1095,(828) 884-3276,Yes,nc_37175
+Tyrrell,REGION IV,Greenville,(919) 664-1150,,No,nc_37177
+Union,REGION II,Charlotte,(919) 664-1080,(704) 283-3807,Yes,nc_37179
+Vance,REGION III,Garner,(919) 664-1160,(252) 438-4619,Yes,nc_37181
+Wake,REGION III,Garner,(919) 664-1160,(919) 212-8387,Yes,nc_37183
+Warren,REGION III,Garner,(919) 664-1160,(252) 257-3385,Yes,nc_37185
+Washington,REGION IV,Greenville,(919) 664-1150,(252) 799-9764,Yes,nc_37187
+Watauga,REGION I,Hickory,(919) 664-1040,(828) 265-8065,Yes,nc_37189
+Wayne,REGION IV,Kinston,(919) 664-1030,(919) 731-1490,Yes,nc_37191
+Wilkes,REGION I,Hickory,(919) 664-1040,(336) 651-7327,Yes,nc_37193
+Wilson,REGION IV,Wilson,(919) 664-1185,(252) 237-2422,Yes,nc_37195
+Yadkin,REGION II,Clemmons,(919) 664-1000,(336) 849-7914,Yes,nc_37197
+Yancey,REGION I,Canton,(919) 664-1095,(828) 682-1514,Yes,nc_37199
